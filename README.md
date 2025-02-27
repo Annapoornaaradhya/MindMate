@@ -6,7 +6,7 @@ MindMate is more than just a chatbot—it's a listening ear, a guiding light, an
 
 Step into a world where every thought matters and every feeling is acknowledged. You are not alone. 💙
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
